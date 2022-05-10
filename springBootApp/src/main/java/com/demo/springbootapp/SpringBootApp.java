@@ -41,8 +41,9 @@ public class SpringBootApp {
 			userservice.addRoleToUser("arvind116", "ROLE_SUPERADMIN");
 			userservice.addRoleToUser("arvind116", "ROLE_ADMIN");
 			userservice.addRoleToUser("arvind116", "ROLE_MANAGER");
+			userservice.addRoleToUser("arvind116", "ROLE_USER");
 			userservice.addRoleToUser("selva127", "ROLE_ADMIN");
-			userservice.addRoleToUser("selva127", "ROLE_MANAGER");
+			userservice.addRoleToUser("selva127", "ROLE_MANAGER");				
 			userservice.addRoleToUser("mani007", "ROLE_MANAGER");
 			userservice.addRoleToUser("mani007", "ROLE_ADMIN");
 			userservice.addRoleToUser("navin4", "ROLE_USER");
